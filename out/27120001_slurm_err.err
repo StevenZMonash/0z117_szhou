@@ -1,0 +1,31 @@
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) imkl/2019.5.281               3) python/3.7.4
+  2) mpi4py/3.0.3-python-3.7.4     4) sqlite/3.21.0
+
+The following have been reloaded with a version change:
+  1) binutils/2.33.1 => binutils/2.30     3) gcccore/9.2.0 => gcccore/6.4.0
+  2) gcc/9.2.0 => gcc/6.4.0               4) openmpi/4.0.2 => openmpi/3.0.0
+
+
+Inactive Modules:
+  1) fftw/3.3.7                          3) tensorflow/2.1.0-python-3.7.4
+  2) scalapack/2.0.2-openblas-0.2.20
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) cython/0.29.16-python-3.7.4     6) protobuf-python/3.11.4-python-3.7.4
+  2) imkl/2019.5.281                 7) protobuf/3.11.4
+  3) mpi4py/3.0.3-python-3.7.4       8) python/3.7.4
+  4) numpy/1.18.2-python-3.7.4       9) sqlite/3.21.0
+  5) openblas/0.2.20
+
+The following have been reloaded with a version change:
+  1) binutils/2.30 => binutils/2.33.1     3) gcccore/6.4.0 => gcccore/9.2.0
+  2) gcc/6.4.0 => gcc/9.2.0               4) openmpi/3.0.0 => openmpi/4.0.2
+
+Traceback (most recent call last):
+  File "parallel_get_data.py", line 104, in <module>
+    main()
+  File "parallel_get_data.py", line 75, in main
+    q = q_range[q_id]
+IndexError: index 99 is out of bounds for axis 0 with size 99
