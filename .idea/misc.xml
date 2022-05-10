@@ -4,11 +4,27 @@
     <option name="openedFilesInfos">
       <list>
         <OpenedFileInfo>
-          <option name="caretOffset" value="527" />
+          <option name="caretOffset" value="221" />
           <option name="fileUrl" value="file://$PROJECT_DIR$/NeuralNet/slurm_job.sh" />
         </OpenedFileInfo>
         <OpenedFileInfo>
-          <option name="caretOffset" value="4107" />
+          <option name="caretOffset" value="0" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/NeuralNet/out/27145218_slurm_err.err" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="10854" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/NeuralNet/out/27145218_slurm_log.log" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="0" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/data_gen/parallel_get_data.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="0" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/data_gen/parallel_slurm.sh" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="4017" />
           <option name="fileUrl" value="file://$PROJECT_DIR$/NeuralNet/Training.py" />
         </OpenedFileInfo>
       </list>

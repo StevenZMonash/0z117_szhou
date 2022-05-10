@@ -2,7 +2,7 @@
 
 #SBATCH --ntasks=1
 #SBATCH --mem=8GB
-#SBATCH --time=00:30:00
+#SBATCH --time=02:30:00
 #SBATCH --mail-user=jzho0060@student.monash.edu
 #SBATCH --mail-type=ALL
 #SBATCH --output=out/%j_slurm_log.log
@@ -11,7 +11,6 @@
 module --force purge
 
 module load git/2.18.0
-module load git-lfs/2.4.0
 module load git-lfs/2.4.0
 module load gcc/9.2.0
 module load openmpi/4.0.2
