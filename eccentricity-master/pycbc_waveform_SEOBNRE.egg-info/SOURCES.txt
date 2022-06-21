@@ -1,0 +1,9 @@
+README.md
+SEOBNRE.py
+setup.py
+pycbc_waveform_SEOBNRE.egg-info/PKG-INFO
+pycbc_waveform_SEOBNRE.egg-info/SOURCES.txt
+pycbc_waveform_SEOBNRE.egg-info/dependency_links.txt
+pycbc_waveform_SEOBNRE.egg-info/entry_points.txt
+pycbc_waveform_SEOBNRE.egg-info/requires.txt
+pycbc_waveform_SEOBNRE.egg-info/top_level.txt

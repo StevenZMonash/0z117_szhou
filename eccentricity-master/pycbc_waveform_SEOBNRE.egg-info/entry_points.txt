@@ -1,0 +1,6 @@
+[pycbc.waveform.fd]
+SEOBNRE = SEOBNRE:SEOBNRE_fd
+
+[pycbc.waveform.td]
+SEOBNRE = SEOBNRE:SEOBNRE_td
+
